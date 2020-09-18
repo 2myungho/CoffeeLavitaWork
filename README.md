@@ -1,5 +1,5 @@
 ﻿## Coffee & Lavita Production process
-* 제작 과정은 이곳에서 볼 수 있습니다.
+* 홈페이지 제작 과정은 이곳에서 볼 수 있습니다.
 * https://2myungho.github.io/CoffeeLavitaWork/#
 
 ## 9/19
