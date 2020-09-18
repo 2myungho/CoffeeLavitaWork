@@ -1,8 +1,8 @@
 
 $(function(){
 	$('#content-box>div').hide();
-	$('#content-box>div').eq(1).fadeIn();
-	$('#tab-menu li a').eq(1).addClass('tab_color');
+	$('#content-box>div').eq(0).fadeIn();
+	$('#tab-menu li a').eq(0).addClass('tab_color');
 
 	$('#tab-menu li a').click(function(e){
 		e.preventDefault();
