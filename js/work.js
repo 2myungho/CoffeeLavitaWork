@@ -24,20 +24,20 @@ $(function(){
 		$('.move').stop().css('display','none');
 	}
 
-	$('#work-content-top').hover(function(){
-		if($(window).width()>1200){
-			if($('.move').stop().css('display') === 'none'){
-				$('.move').stop().css('display','block');
-				$('.move').stop().animate({
-					'top':'65%',
-					},100);
-			}else{
-				$('.move').stop().animate({
-					'top':'100%'
-				},100).slideToggle();
-			}
-		}
-	});
+// 	$('#work-content-top').hover(function(){
+// 		if($(window).width()>1200){
+// 			if($('.move').stop().css('display') === 'none'){
+// 				$('.move').stop().css('display','block');
+// 				$('.move').stop().animate({
+// 					'top':'65%',
+// 					},100);
+// 			}else{
+// 				$('.move').stop().animate({
+// 					'top':'100%'
+// 				},100).slideToggle();
+// 			}
+// 		}
+// 	});
 
 	/****************work스크롤*******************/
 	$(window).on('scroll',function(){
