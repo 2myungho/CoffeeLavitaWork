@@ -33,13 +33,11 @@
 	}
 	.move{
 		position:absolute;
-		top:100%;
+		bottom:20%;
 		left:6%;
 		color:#fff;
 		font-weight:bold;
 		font-size:24px;
-		transition: all 0.5s ease-in-out;
-		display:none;
 	}
 	#work-content-inner{
 		overflow:hidden;
